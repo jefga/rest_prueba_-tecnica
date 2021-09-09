@@ -23,6 +23,10 @@ http://localhost:4000/services/planetas/2
 
 http://localhost:4000/services/planetasTop3/3
 
+si el puerto esta ocupado debe cambiar el puerto dentro del jar en la siguiente ruta
+
+\prueba_tecnica-0.0.1-SNAPSHOT.jar\BOOT-INF\classes\application.properties
+
 documentacion sobre los servicio en la siguiente url 
 
 http://localhost:4000/services/swagger-ui.html#/servicios-controller
